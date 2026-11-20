@@ -1,0 +1,15 @@
+/* Noto Serif — from fontdex http://127.0.0.1:8435/, trimmed to this page's characters (rx export) */
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(Noto-Serif-1.woff2) format('woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(Noto-Serif-2.woff2) format('woff2') format('woff2');
+}
